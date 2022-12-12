@@ -1,0 +1,15 @@
+﻿Build started 31/10/2021 03:31:13 م.
+     1>Project "C:\Users\KRM0201517\Documents\Visual Studio 2010\Projects\c+++ edu\c+++ edu\c+++ edu.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\c+++ edu.unsuccessfulbuild".
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\KRM0201517\Documents\Visual Studio 2010\Projects\c+++ edu\Debug\c+++ edu.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\c+++ edu.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\KRM0201517\Documents\Visual Studio 2010\Projects\c+++ edu\Debug\c+++ edu.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\KRM0201517\Documents\Visual Studio 2010\Projects\c+++ edu\Debug\c+++ edu.lib" /MACHINE:X86 "Debug\c+++ edu.exe.embed.manifest.res"
+     1>LINK : error LNK2001: unresolved external symbol _mainCRTStartup
+     1>C:\Users\KRM0201517\Documents\Visual Studio 2010\Projects\c+++ edu\Debug\c+++ edu.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "C:\Users\KRM0201517\Documents\Visual Studio 2010\Projects\c+++ edu\c+++ edu\c+++ edu.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.19

@@ -1,0 +1,19 @@
+﻿Build started 15/12/2021 03:13:25 م.
+     1>Project "C:\Users\KRM0201517\Documents\Visual Studio 2010\Projects\Contiguous Queue\Contiguous Queue\Contiguous Queue.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\KRM0201517\Documents\Visual Studio 2010\Projects\Contiguous Queue\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Contiguous Queue.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt LQ_imp.cpp LQ_main.cpp
+         LQ_main.cpp
+     1>c:\users\krm0201517\documents\visual studio 2010\projects\contiguous queue\contiguous queue\lq_main.cpp(15): error C2039: 'retrieve' : is not a member of 'QueueType'
+                 c:\users\krm0201517\documents\visual studio 2010\projects\contiguous queue\contiguous queue\lq_header.h(3) : see declaration of 'QueueType'
+         LQ_imp.cpp
+         Generating Code...
+     1>c:\users\krm0201517\documents\visual studio 2010\projects\contiguous queue\contiguous queue\lq_imp.cpp(64): error C4716: 'QueueType::retrive' : must return a value
+     1>Done Building Project "C:\Users\KRM0201517\Documents\Visual Studio 2010\Projects\Contiguous Queue\Contiguous Queue\Contiguous Queue.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.51

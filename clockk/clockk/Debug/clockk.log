@@ -1,0 +1,22 @@
+﻿Build started 02/12/2021 10:34:42 م.
+     1>Project "C:\Users\KRM0201517\Documents\Visual Studio 2010\Projects\clockk\clockk\clockk.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\KRM0201517\Documents\Visual Studio 2010\Projects\clockk\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\clockk.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt clock_type.cpp
+         clock_type.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\KRM0201517\Documents\Visual Studio 2010\Projects\clockk\Debug\clockk.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\clockk.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\KRM0201517\Documents\Visual Studio 2010\Projects\clockk\Debug\clockk.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\KRM0201517\Documents\Visual Studio 2010\Projects\clockk\Debug\clockk.lib" /MACHINE:X86 Debug\clock_type.obj
+         clockk.vcxproj -> C:\Users\KRM0201517\Documents\Visual Studio 2010\Projects\clockk\Debug\clockk.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\KRM0201517\Documents\Visual Studio 2010\Projects\clockk\Debug\clockk.exe;#1" /manifest Debug\clockk.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\clockk.unsuccessfulbuild".
+         Touching "Debug\clockk.lastbuildstate".
+     1>Done Building Project "C:\Users\KRM0201517\Documents\Visual Studio 2010\Projects\clockk\clockk\clockk.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.60
